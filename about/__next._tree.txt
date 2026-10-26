@@ -6,4 +6,4 @@
 :HL["/portfolio/_next/static/media/dc0d9adbac686440-s.p.3cik_s2si-ft-.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"about","h":64,"c":"$Q2"}]]
-0:{"b":"toGHhPpDFuAjuaA-ggJGy","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"LGhYS_rPpOgBWcsvwXnsA","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
