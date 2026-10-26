@@ -1,0 +1,10 @@
+:HL["/portfolio/_next/static/chunks/2ipnqrgdvnbtz.css","style"]
+:HL["/portfolio/_next/static/chunks/3dxtnki1boq_4.css","style"]
+:HL["/portfolio/_next/static/media/0c89a48fa5027cee-s.p.2cyn07wtgehh0.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/portfolio/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/portfolio/_next/static/media/8d05cfa5faa8406c-s.p.1s123piy9_v1m.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/portfolio/_next/static/media/dc0d9adbac686440-s.p.3cik_s2si-ft-.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"slug","t":"d","k":"sauticivic-benchmark","s":[]},"h":65632,"c":"$Q3"}]]
+1:[["children",{"s":"writing","h":131136,"c":"$Q2"}]]
+0:{"b":"toGHhPpDFuAjuaA-ggJGy","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
