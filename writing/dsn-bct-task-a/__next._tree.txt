@@ -1,5 +1,5 @@
-:HL["/portfolio/_next/static/chunks/0jhshv2pjmwqq.css","style"]
-:HL["/portfolio/_next/static/chunks/3dxtnki1boq_4.css","style"]
+:HL["/portfolio/_next/static/chunks/30vboq-0ajiwk.css","style"]
+:HL["/portfolio/_next/static/chunks/06rvgc59hr4ob.css","style"]
 :HL["/portfolio/_next/static/media/0c89a48fa5027cee-s.p.2cyn07wtgehh0.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/portfolio/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/portfolio/_next/static/media/8d05cfa5faa8406c-s.p.1s123piy9_v1m.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -7,4 +7,4 @@
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"dsn-bct-task-a","s":[]},"h":65632,"c":"$Q3"}]]
 1:[["children",{"s":"writing","h":131136,"c":"$Q2"}]]
-0:{"b":"GF7CEiziwN6cbpy2cNRKp","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
+0:{"b":"KixcP5TE9ENCU9e0EVPT0","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
